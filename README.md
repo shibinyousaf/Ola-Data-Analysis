@@ -32,3 +32,7 @@ The dataset consists of the following columns:
 17. Ride_Distance - Distance covered during the ride.
 18. Driver_Ratings - Ratings provided by customers for drivers.
 19. Customer_Rating - Ratings provided by drivers for customers.
+```
+
+## Conclusion
+Through SQL analysis and Power BI visualizations, this project provides a **data-driven understanding of Ola rides**. By uncovering patterns in **customer behavior, driver performance, and revenue generation**, the insights gained can be leveraged for **business growth, operational efficiency, and enhanced user experience**. 🚖📊
